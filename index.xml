@@ -1,13 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Juno Blog Site</title>
+        <title>AdeJuno Blog Site</title>
         <link>https://adejuno.github.io/</link>
-        <description>Recent content on Juno Blog Site</description>
+        <description>Recent content on AdeJuno Blog Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Adeline</copyright>
-        <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://adejuno.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://adejuno.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>On-Page SEO Optimization: The Complete Guide for Beginners</title>
+        <link>https://adejuno.github.io/p/on-page-seo-optimization-the-complete-guide-for-beginners/</link>
+        <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://adejuno.github.io/p/on-page-seo-optimization-the-complete-guide-for-beginners/</guid>
+        <description>&lt;img src="https://adejuno.github.io/p/on-page-seo-optimization-the-complete-guide-for-beginners/pexels-4200831.jpg" alt="Featured image of post On-Page SEO Optimization: The Complete Guide for Beginners" /&gt;&lt;h3 id=&#34;step-1-keyword-optimization--your-seo-foundation-&#34;&gt;&lt;strong&gt;Step 1: Keyword Optimization – Your SEO Foundation 🔑&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;What to Do&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Find Long-Tail Keywords&lt;/strong&gt; (3-5 words):
+&lt;ul&gt;
+&lt;li&gt;Example: Instead of &amp;ldquo;running shoes&amp;rdquo;, try &amp;ldquo;best cushioned running shoes for flat feet&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Tools: Use &lt;strong&gt;Google Keyword Planner&lt;/strong&gt; or &lt;strong&gt;Ubersuggest&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Check Competition&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;⚠️ &lt;strong&gt;High Traffic = High Competition&lt;/strong&gt;: Avoid keywords dominated by big brands like Nike/Adidas.&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;Low Traffic = Easier to Rank&lt;/strong&gt;: Target keywords with 100-500 monthly searches.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Test Your Content Quality&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Ask: &amp;ldquo;Is my page better than the current top 3 results?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Improve: Add images/videos, fix loading speed, and simplify language.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;step-2-off-page-seo--build-your-online-reputation-&#34;&gt;&lt;strong&gt;Step 2: Off-Page SEO – Build Your Online Reputation 🌐&lt;/strong&gt;
+&lt;/h3&gt;&lt;h4 id=&#34;content-marketing-strategies&#34;&gt;&lt;strong&gt;Content Marketing Strategies&lt;/strong&gt;
+&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;A. Press Releases 📰&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Publish news on platforms like &lt;strong&gt;AP News&lt;/strong&gt; or &lt;strong&gt;PR Newswire&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Example: A skincare brand announcing &amp;ldquo;Vegan Product Launch&amp;rdquo; → Featured on 8+ media sites.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;B. Blogger Collaborations 🤝&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Search for niche blogs (e.g., &amp;ldquo;best budget travel gear blogs&amp;rdquo;).&lt;/li&gt;
+&lt;li&gt;Offer free samples for reviews.&lt;/li&gt;
+&lt;li&gt;Get backlinks in their articles.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Success Example&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A pet brand partnered with 3 bloggers → Earned 15 high-quality backlinks → Organic traffic increased by 40% in 2 months.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;C. User Reviews 🌟&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Encourage reviews on:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Trustpilot&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reddit&lt;/strong&gt; communities&lt;/li&gt;
+&lt;li&gt;Instagram posts (tagging your brand)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;how-google-judges-your-site-&#34;&gt;&lt;strong&gt;How Google Judges Your Site ⚖️&lt;/strong&gt;
+&lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;graph LR  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A[Your Website] --&amp;gt; B(On-Page SEO: Keywords/Content)  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A --&amp;gt; C(Off-Page SEO: Backlinks/Reviews)  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;B --&amp;gt; D{Google&amp;#39;s Algorithm}  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C --&amp;gt; D  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;D --&amp;gt; E[Higher Ranking!]  
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;⚠️ &lt;strong&gt;Key Insight&lt;/strong&gt;:
+Google treats backlinks as &amp;ldquo;trust votes&amp;rdquo;. A link from &lt;strong&gt;Forbes&lt;/strong&gt; = 100x more powerful than a small blog!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;3-common-seo-mistakes-to-avoid-&#34;&gt;&lt;strong&gt;3 Common SEO Mistakes to Avoid ❌&lt;/strong&gt;
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Wrong Keywords&lt;/strong&gt; → Wasted effort.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ignoring Mobile Users&lt;/strong&gt; → 60%+ searches are on phones!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Buying Fake Backlinks&lt;/strong&gt; → Risk Google penalties.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
         <title>Why SEO Matters</title>
         <link>https://adejuno.github.io/p/why-seo-matters/</link>
         <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
@@ -97,7 +184,7 @@ Google treats backlinks as &amp;ldquo;trust votes&amp;rdquo;. A link from &lt;st
         <item>
         <title>SEO vs. SEM vs. Google Ads: What’s the Difference?</title>
         <link>https://adejuno.github.io/p/seo-vs.-sem-vs.-google-ads-whats-the-difference/</link>
-        <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>https://adejuno.github.io/p/seo-vs.-sem-vs.-google-ads-whats-the-difference/</guid>
         <description>&lt;img src="https://adejuno.github.io/p/seo-vs.-sem-vs.-google-ads-whats-the-difference/pexels-goumbik-669619.jpg" alt="Featured image of post SEO vs. SEM vs. Google Ads: What’s the Difference?" /&gt;&lt;h3 id=&#34;seo-free-organic-traffic-&#34;&gt;&lt;strong&gt;SEO: Free Organic Traffic 🌱&lt;/strong&gt;
@@ -236,7 +323,7 @@ Japanese uses pitch accents (not stress accents). For example:
 &lt;li&gt;&lt;strong&gt;Daily Routine&lt;/strong&gt;:
 &lt;ol&gt;
 &lt;li&gt;Learn 15 new words (use Anki for spaced repetition).&lt;/li&gt;
-&lt;li&gt;Study 1 grammar point (e.g., ～ます form → ～ませんか).&lt;/li&gt;
+&lt;li&gt;Study 1 lesson (e.g., ～ます form → ～ませんか).&lt;/li&gt;
 &lt;li&gt;Read a short dialogue aloud (record and compare to textbook audio).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
@@ -250,7 +337,7 @@ Japanese uses pitch accents (not stress accents). For example:
 &lt;p&gt;&lt;strong&gt;Key Milestones&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;By Month 3: Master verb forms (ます形、て形、た形、ない形).&lt;/li&gt;
-&lt;li&gt;By N4 Level: Understand daily conversations (e.g., shopping, weather).&lt;/li&gt;
+&lt;li&gt;By N4 Level: Understand basic grammar and able to read simple articles.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;step-3-prepare-for-jlpt-months-4-5&#34;&gt;&lt;strong&gt;Step 3: Prepare for JLPT (Months 4-5)&lt;/strong&gt;
@@ -258,7 +345,7 @@ Japanese uses pitch accents (not stress accents). For example:
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Exam Structure&lt;/strong&gt;:
 &lt;ul&gt;
-&lt;li&gt;No speaking/writing sections! Focus on listening/reading.&lt;/li&gt;
+&lt;li&gt;No speaking/writing sections! Focus on vocabulary/grammar/listening/reading.&lt;/li&gt;
 &lt;li&gt;Uses &amp;ldquo;scaled scoring&amp;rdquo;: Basic questions matter most.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -295,7 +382,7 @@ Japanese uses pitch accents (not stress accents). For example:
 &lt;hr&gt;
 &lt;h3 id=&#34;after-passing-n3-keep-improving&#34;&gt;&lt;strong&gt;After Passing N3: Keep Improving!&lt;/strong&gt;
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;After 5 months of study, I successfully obtained the JLPT N3 certificate, and I will continue to study in the future. It should be noted that &lt;strong&gt;speaking and writing&lt;/strong&gt; are not included in the exam, so this part needs to be studied by yourself. In addition, JLPT adopts a &lt;strong&gt;&amp;ldquo;scale score&amp;rdquo;&lt;/strong&gt; rather than a net score, which can more fairly and accurately reflect the level of candidates&amp;rsquo; Japanese ability. The basics are especially important, and difficult problems don&amp;rsquo;t need to be drilled into. If you want to learn Japanese, start with &lt;strong&gt;flashcards&lt;/strong&gt;!&lt;/li&gt;
+&lt;li&gt;After 5 months of study, I successfully obtained the JLPT N3 certificate, and I will continue to study further. It should be noted that &lt;strong&gt;speaking and writing&lt;/strong&gt; are not included in the exam, so this part needs to be studied by yourself. If you want to learn Japanese, start with &lt;strong&gt;flashcards&lt;/strong&gt;!&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>

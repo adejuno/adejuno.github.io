@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Juno Blog Site</title>
+        <title>Categories on AdeJuno Blog Site</title>
         <link>https://adejuno.github.io/categories/</link>
-        <description>Recent content in Categories on Juno Blog Site</description>
+        <description>Recent content in Categories on AdeJuno Blog Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Adeline</copyright>
-        <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://adejuno.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://adejuno.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Keyword Optimization</title>
         <link>https://adejuno.github.io/categories/keyword-optimization/</link>
-        <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>https://adejuno.github.io/categories/keyword-optimization/</guid>
         <description></description>
@@ -18,7 +18,7 @@
         <item>
         <title>Off-Page SEO</title>
         <link>https://adejuno.github.io/categories/off-page-seo/</link>
-        <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>https://adejuno.github.io/categories/off-page-seo/</guid>
         <description></description>
@@ -26,15 +26,23 @@
         <item>
         <title>SEO</title>
         <link>https://adejuno.github.io/categories/seo/</link>
-        <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>https://adejuno.github.io/categories/seo/</guid>
         <description></description>
         </item>
         <item>
+        <title>SEO for Beginners</title>
+        <link>https://adejuno.github.io/categories/seo-for-beginners/</link>
+        <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://adejuno.github.io/categories/seo-for-beginners/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Google Ads</title>
         <link>https://adejuno.github.io/categories/google-ads/</link>
-        <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>https://adejuno.github.io/categories/google-ads/</guid>
         <description></description>
@@ -42,7 +50,7 @@
         <item>
         <title>SEM</title>
         <link>https://adejuno.github.io/categories/sem/</link>
-        <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>https://adejuno.github.io/categories/sem/</guid>
         <description></description>

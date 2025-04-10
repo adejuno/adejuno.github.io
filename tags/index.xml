@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Juno Blog Site</title>
+        <title>Tags on AdeJuno Blog Site</title>
         <link>https://adejuno.github.io/tags/</link>
-        <description>Recent content in Tags on Juno Blog Site</description>
+        <description>Recent content in Tags on AdeJuno Blog Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Adeline</copyright><atom:link href="https://adejuno.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
