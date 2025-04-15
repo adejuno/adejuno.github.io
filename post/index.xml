@@ -7,7 +7,118 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Adeline</copyright>
-        <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://adejuno.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://adejuno.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Mastering Off-Page &amp; Technical SEO</title>
+        <link>https://adejuno.github.io/p/mastering-off-page-technical-seo/</link>
+        <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://adejuno.github.io/p/mastering-off-page-technical-seo/</guid>
+        <description>&lt;img src="https://adejuno.github.io/p/mastering-off-page-technical-seo/pic_1280.jpg" alt="Featured image of post Mastering Off-Page &amp; Technical SEO" /&gt;&lt;h3 id=&#34;part-1-off-page-seo--beyond-your-website&#34;&gt;&lt;strong&gt;Part 1: Off-Page SEO – Beyond Your Website&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;The Core Idea&lt;/strong&gt;:
+Off-Page SEO means promoting your brand &lt;strong&gt;outside your website&lt;/strong&gt; to build authority and trust. While it sounds simple (“just collaborate with influencers!”), the execution requires strategy.&lt;/p&gt;
+&lt;h4 id=&#34;why-its-tricky-but-worth-it&#34;&gt;&lt;strong&gt;Why It’s Tricky (But Worth It)&lt;/strong&gt;:
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Myth&lt;/strong&gt;: “Any influencer partnership = instant sales.”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reality&lt;/strong&gt;: A single high-quality backlink from &lt;strong&gt;The New York Times&lt;/strong&gt; beats 100 spammy forum links.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Effective Strategies&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Content Partnerships&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Partner with bloggers who &lt;em&gt;truly understand your niche&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Example: A sustainable fashion brand collaborates with eco-conscious YouTubers → Earns backlinks + targeted traffic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Guest Posts&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Write articles for trusted sites (e.g., “10 Tips for Camping Beginners” on an outdoor gear blog).&lt;/li&gt;
+&lt;li&gt;Include &lt;strong&gt;natural backlinks&lt;/strong&gt; to your product pages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social Proof&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Encourage customers to share reviews on:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Trustpilot&lt;/strong&gt; (for credibility)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reddit/Niche Forums&lt;/strong&gt; (for community trust)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;Avoid&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Buying cheap backlinks (Google penalizes this!).&lt;/li&gt;
+&lt;li&gt;Partnering with irrelevant influencers (e.g., a gaming YouTuber promoting skincare).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;part-2-technical-seo--helping-google-understand-your-site&#34;&gt;&lt;strong&gt;Part 2: Technical SEO – Helping Google Understand Your Site&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;In Plain English&lt;/strong&gt;:
+Make your website easy for Google’s bots to crawl and index.&lt;/p&gt;
+&lt;h4 id=&#34;3-critical-fixes-for-beginners&#34;&gt;&lt;strong&gt;3 Critical Fixes for Beginners&lt;/strong&gt;:
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Speed Optimization&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Compress images (use &lt;strong&gt;TinyPNG&lt;/strong&gt;).&lt;/li&gt;
+&lt;li&gt;Limit plugins (e.g., avoid 5+ pop-ups).&lt;/li&gt;
+&lt;li&gt;Test speed with &lt;strong&gt;Google PageSpeed Insights&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile-Friendliness&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Use responsive design (no horizontal scrolling!).&lt;/li&gt;
+&lt;li&gt;Test with &lt;strong&gt;Google Mobile-Friendly Test&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;XML Sitemap Submission&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Submit via &lt;strong&gt;Google Search Console&lt;/strong&gt; → Helps Google find all pages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Advanced Tip&lt;/strong&gt;:
+Fix broken links with tools like &lt;strong&gt;Screaming Frog&lt;/strong&gt; (free for small sites).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;must-have-tools--resources-&#34;&gt;&lt;strong&gt;Must-Have Tools &amp;amp; Resources&lt;/strong&gt; 🔧
+&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Tool/Resource&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Purpose&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Free Tier?&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Google Search Console&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Monitor site health + rankings&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Yes (full features)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Ahrefs&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Check backlinks + keywords&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Limited free checks&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;SEMrush&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Competitor analysis&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10 free searches/day&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Ubersuggest&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Keyword ideas + SEO audits&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Yes (basic features)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Free Learning&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google’s SEO Guide&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://developers.google.com/search/docs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://developers.google.com/search/docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>On-Page SEO Optimization: The Complete Guide for Beginners</title>
         <link>https://adejuno.github.io/p/on-page-seo-optimization-the-complete-guide-for-beginners/</link>
         <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
@@ -95,12 +206,12 @@ Google treats backlinks as &amp;ldquo;trust votes&amp;rdquo;. A link from &lt;st
 </description>
         </item>
         <item>
-        <title>Why SEO Matters</title>
-        <link>https://adejuno.github.io/p/why-seo-matters/</link>
+        <title>Mastering SEO: From Keywords to Content Marketing</title>
+        <link>https://adejuno.github.io/p/mastering-seo-from-keywords-to-content-marketing/</link>
         <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://adejuno.github.io/p/why-seo-matters/</guid>
-        <description>&lt;img src="https://adejuno.github.io/p/why-seo-matters/pexels-asphotograpy-95916.jpg" alt="Featured image of post Why SEO Matters" /&gt;&lt;h3 id=&#34;step-1-keyword-optimization--your-seo-foundation-&#34;&gt;&lt;strong&gt;Step 1: Keyword Optimization – Your SEO Foundation 🔑&lt;/strong&gt;
+        <guid>https://adejuno.github.io/p/mastering-seo-from-keywords-to-content-marketing/</guid>
+        <description>&lt;img src="https://adejuno.github.io/p/mastering-seo-from-keywords-to-content-marketing/pexels-asphotograpy-95916.jpg" alt="Featured image of post Mastering SEO: From Keywords to Content Marketing" /&gt;&lt;h3 id=&#34;step-1-keyword-optimization--your-seo-foundation-&#34;&gt;&lt;strong&gt;Step 1: Keyword Optimization – Your SEO Foundation 🔑&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;What to Do&lt;/strong&gt;:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Find Long-Tail Keywords&lt;/strong&gt; (3-5 words):
@@ -267,12 +378,12 @@ A flower shop targets &amp;ldquo;same-day rose delivery NYC&amp;rdquo; with Goog
 </description>
         </item>
         <item>
-        <title>Self-study Japanese Guide from Zero to JLPT N3</title>
-        <link>https://adejuno.github.io/p/self-study-japanese-guide-from-zero-to-jlpt-n3/</link>
-        <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+        <title>Self-Study Japanese Guide to achieve JLPT N3 Level</title>
+        <link>https://adejuno.github.io/p/self-study-japanese-guide-to-achieve-jlpt-n3-level/</link>
+        <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://adejuno.github.io/p/self-study-japanese-guide-from-zero-to-jlpt-n3/</guid>
-        <description>&lt;img src="https://adejuno.github.io/p/self-study-japanese-guide-from-zero-to-jlpt-n3/book-photo.jpg" alt="Featured image of post Self-study Japanese Guide from Zero to JLPT N3" /&gt;&lt;h3 id=&#34;why-learn-japanese&#34;&gt;&lt;strong&gt;Why Learn Japanese?&lt;/strong&gt;
+        <guid>https://adejuno.github.io/p/self-study-japanese-guide-to-achieve-jlpt-n3-level/</guid>
+        <description>&lt;img src="https://adejuno.github.io/p/self-study-japanese-guide-to-achieve-jlpt-n3-level/book-photo.jpg" alt="Featured image of post Self-Study Japanese Guide to achieve JLPT N3 Level" /&gt;&lt;h3 id=&#34;why-learn-japanese&#34;&gt;&lt;strong&gt;Why Learn Japanese?&lt;/strong&gt;
 &lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Practical Benefits&lt;/strong&gt;
 &lt;ul&gt;
@@ -323,11 +434,11 @@ Japanese uses pitch accents (not stress accents). For example:
 &lt;li&gt;&lt;strong&gt;Daily Routine&lt;/strong&gt;:
 &lt;ol&gt;
 &lt;li&gt;Learn 15 new words (use Anki for spaced repetition).&lt;/li&gt;
-&lt;li&gt;Study 1 lesson (e.g., ～ます form → ～ませんか).&lt;/li&gt;
+&lt;li&gt;Study 1 grammar point (e.g., ～ます form → ～ませんか).&lt;/li&gt;
 &lt;li&gt;Read a short dialogue aloud (record and compare to textbook audio).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Free Resources I Used&lt;/strong&gt; (only for native Chinese speaker):
+&lt;li&gt;&lt;strong&gt;Free Resources I Used&lt;/strong&gt;:
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;圆圆日语教室&lt;/strong&gt; (YouTube): Explains grammar with doodles.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;周业繁的课程&lt;/strong&gt; (Bilibili): JLPT-focused shortcuts.&lt;/li&gt;
@@ -337,7 +448,7 @@ Japanese uses pitch accents (not stress accents). For example:
 &lt;p&gt;&lt;strong&gt;Key Milestones&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;By Month 3: Master verb forms (ます形、て形、た形、ない形).&lt;/li&gt;
-&lt;li&gt;By N4 Level: Understand basic grammar and able to read simple articles.&lt;/li&gt;
+&lt;li&gt;By N4 Level: Understand daily conversations (e.g., shopping, weather).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;step-3-prepare-for-jlpt-months-4-5&#34;&gt;&lt;strong&gt;Step 3: Prepare for JLPT (Months 4-5)&lt;/strong&gt;
@@ -345,7 +456,7 @@ Japanese uses pitch accents (not stress accents). For example:
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Exam Structure&lt;/strong&gt;:
 &lt;ul&gt;
-&lt;li&gt;No speaking/writing sections! Focus on vocabulary/grammar/listening/reading.&lt;/li&gt;
+&lt;li&gt;No speaking/writing sections! Focus on listening/reading.&lt;/li&gt;
 &lt;li&gt;Uses &amp;ldquo;scaled scoring&amp;rdquo;: Basic questions matter most.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -382,7 +493,9 @@ Japanese uses pitch accents (not stress accents). For example:
 &lt;hr&gt;
 &lt;h3 id=&#34;after-passing-n3-keep-improving&#34;&gt;&lt;strong&gt;After Passing N3: Keep Improving!&lt;/strong&gt;
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;After 5 months of study, I successfully obtained the JLPT N3 certificate, and I will continue to study further. It should be noted that &lt;strong&gt;speaking and writing&lt;/strong&gt; are not included in the exam, so this part needs to be studied by yourself. If you want to learn Japanese, start with &lt;strong&gt;flashcards&lt;/strong&gt;!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Speaking&lt;/strong&gt;: Join language exchanges on &lt;strong&gt;HelloTalk&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Writing&lt;/strong&gt;: Post short diaries on LangCorrect.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Next Goal&lt;/strong&gt;: I will continue learning to pass the JLPT N2 and share my experiences.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
